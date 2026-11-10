@@ -5,7 +5,14 @@
 This voice-first helpdesk lets employees ask HR questions by speaking in Telugu, Hindi, Hinglish or English and hear the answer spoken back in the same language.
 
 ---
+## 🔗 Try it
 
+- **Live app:** https://voice-hr-appdesk-hykkemczy8zdy2tusfo9hc.streamlit.app/
+- **Code:** https://github.com/kalyai1322005/voice-hr-helpdesk
+
+> The app may take about 30 seconds to wake up on the first visit (free hosting). Use the microphone to ask in Hindi, Telugu, Hinglish or English.
+>
+> 
 ## Pipeline
 
 ```
