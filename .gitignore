@@ -1,0 +1,28 @@
+# Secrets — never commit the real key
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Recorded audio (mic captures)
+*.wav
+*.mp3
+
+# Scratch / agent working dirs
+scratch/
+.agents/
+.claude/
+.benchmarks/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
